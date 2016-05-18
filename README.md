@@ -1,13 +1,7 @@
 # hello-world
-This is the beginning
 
-printf("Hey u! R u listening?");
+This Is What Actually It Does!!!
 
-//So u need to add a function over here
+So Let$ Get Started!
 
-int add(int a, int b)
-{
- printf("Sum = " ,a+b);
-}
- 
-printf("Watsup?");
+What You Say?
